@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "name": "Harry", "surname": "Potter", "house": "Gryffindor" },
+    { "name": "Cedric", "surname": "Diggory", "house": "Hufflepuff" },
+    { "name": "Luna", "surname": "Scamander", "house": "Ravenclaw" },
+    { "name": "Draco", "surname": "Malfoy", "house": "Slytherin" },
+    { "name": "Ronald", "surname": "Weasley", "house": "Gryffindor" },
+    { "name": "Bellatrix", "surname": "Lestrange", "house": "Slytherin" }
+  ]
+}
