@@ -4,4 +4,4 @@
 
 
 ## MAP
-1. 
+1. [Map Simple Questions](https://github.com/imevanc/evan-codes-javascript-tutorials/tree/main/higher-order-functions/map/index.js)
