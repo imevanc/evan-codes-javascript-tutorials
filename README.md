@@ -5,3 +5,6 @@
 
 ## MAP
 1. [Map Simple Questions](https://github.com/imevanc/evan-codes-javascript-tutorials/tree/main/higher-order-functions/map/index.js)
+
+## Filter
+1. [Filter Simple Questions](https://github.com/imevanc/evan-codes-javascript-tutorials/blob/main/higher-order-functions/filter/index.js)
