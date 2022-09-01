@@ -6,8 +6,8 @@ const slytherinUsers = users.filter((user) => user.house === "Slytherin");
 console.log(slytherinUsers);
 
 // Questions 2: Return an array of names (ie strings)
-//  of Gryffindor users
-const namesOfGryffindorUsers = users
-  .filter((user) => user.house === "Gryffindor")
+//  of Slytherin users
+const namesOfSlytherinUsers = users
+  .filter((user) => user.house === "Slytherin")
   .map((user) => user.name);
-console.log(namesOfGryffindorUsers);
+console.log(namesOfSlytherinUsers);
